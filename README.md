@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henrik Allberg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on small and big projects.
+- 👀 I’m interested in learning a little about everything to get knowledge of a lot
+- 🌱 I’m currently learning Vue and Vuetify and about authentication and authorization
+- 💞️ I’m looking to collaborate on small and big projects
 - 📫 How to reach me henrik.allberg @ gmail.com
 
 <!---

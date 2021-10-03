@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Henke1983
+- 👋 Hi, I’m Henrik Allberg
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on small and big projects.
 - 📫 How to reach me henrik.allberg @ gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrik Allberg
 - 👀 I’m interested in learning a little about everything to get knowledge of a lot
-- 🌱 I’m currently learning Vue and Vuetify and about authentication and authorization
+- 🌱 I’m currently learning Vue and Vuetify and about authentication and authorization. I also building autopilot for rovers so interesting in RTK and Ardupilot.
 - 💞️ I’m looking to collaborate on small and big projects
 - 📫 How to reach me henrik.allberg @ gmail.com
 
